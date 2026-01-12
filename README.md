@@ -95,7 +95,7 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
   - Credit card is the most popular payment method and drives most revenue.
   - Installment usage is significant but does not heavily impact revenue distribution.
   - Promotions could be designed for under-utilized payment options.
-- **Visuals Used:** Donut charts, bar charts.
+- **Visuals Used:** Pie charts, bar charts.
 
 
 ### 6. Customer Reviews & Satisfaction
