@@ -30,7 +30,7 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
   <img width="1208" height="807" alt="Delivery_Payments" src="https://github.com/user-attachments/assets/6df51fe5-d2a5-4837-828a-ade2ec7aa5fd" />
   <img width="1042" height="804" alt="Payment_Analysis" src="https://github.com/user-attachments/assets/082f15a8-8cb4-4ba7-b587-1006467370be" />
   <img width="1149" height="805" alt="Customer_Review_Analysis" src="https://github.com/user-attachments/assets/786ef930-a316-4c6d-846d-166f1913c1d8" />
-  ## Dashboard Pages & Detailed Insights
+## Dashboard Pages & Detailed Insights
 
 ### 1. Executive Overview
 - **Purpose:** Provides a high-level snapshot of business performance.
