@@ -72,3 +72,13 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
 - Some product categories do not have English translations; original product categories were used to avoid data loss.
 - Power BI (.pbix) file is not included due to GitHub size restrictions.
 - Dashboard screenshots are provided for visualization reference.
+## Power BI Dashboard File
+
+The Power BI dashboard file (.pbix) is available for download using the link below:
+
+[Download Power BI Dashboard (.pbix)](## Power BI Dashboard File
+
+The Power BI dashboard file (.pbix) is available for download using the link below:
+
+[Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1iKrq3ontrNdHFh0CHLwwRPCEu1wKqS9e/view?usp=sharing)
+
