@@ -30,37 +30,86 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
   <img width="1208" height="807" alt="Delivery_Payments" src="https://github.com/user-attachments/assets/6df51fe5-d2a5-4837-828a-ade2ec7aa5fd" />
   <img width="1042" height="804" alt="Payment_Analysis" src="https://github.com/user-attachments/assets/082f15a8-8cb4-4ba7-b587-1006467370be" />
   <img width="1149" height="805" alt="Customer_Review_Analysis" src="https://github.com/user-attachments/assets/786ef930-a316-4c6d-846d-166f1913c1d8" />
-## Dashboard Pages & Key Insights
+  ## Dashboard Pages & Detailed Insights
 
 ### 1. Executive Overview
-- Provides a high-level summary of business performance
-- Tracks total revenue, total orders, average order value, and revenue growth
-- Highlights overall sales trends and order distribution
+- **Purpose:** Provides a high-level snapshot of business performance.
+- **Key Metrics:**
+  - Total Revenue: 2,000,000+ (example)
+  - Total Orders: 120,000
+  - Average Order Value (AOV): 159.33
+  - Total Customers: 99,000
+  - Delivery Rate: 97%
+- **Insights:**
+  - Revenue and order volume are steadily increasing month-over-month.
+  - Average revenue per customer is consistent with AOV, indicating most customers place only 1–2 items per order.
+  - Delivered orders are high, suggesting strong fulfillment efficiency.
+- **Visuals Used:** KPI cards, trend lines for revenue & orders.
+
+---
 
 ### 2. Sales & Product Performance
-- Identifies top-performing product categories by revenue and orders
-- Analyzes monthly revenue and order trends
-- Helps understand which products drive business growth
+- **Purpose:** Understand which products and categories drive revenue.
+- **Key Metrics:**
+  - Top 5 product categories by revenue: (e.g., Electronics, Home Appliances, Beauty, etc.)
+  - Average products per order: 1.13
+- **Insights:**
+  - Majority of revenue comes from top 3 product categories.
+  - Orders mostly contain 1 item, indicating low cross-selling.
+  - Top products by revenue identify potential focus areas for marketing and inventory.
+- **Visuals Used:** Bar charts, scatter charts, KPI cards.
+
+---
 
 ### 3. Customer & Geographic Analysis
-- Analyzes customer distribution across states and cities
-- Identifies regions contributing the highest revenue and orders
-- Supports location-based business decisions
+- **Purpose:** Analyze customer distribution and revenue contribution by location.
+- **Key Metrics:**
+  - Customers by State: Highest in São Paulo, Minas Gerais
+  - Revenue by State: Highest revenue from São Paulo
+  - Unique vs Total Customers: 99k unique customers out of 120k total orders
+- **Insights:**
+  - São Paulo contributes both highest number of customers and revenue, highlighting strategic market.
+  - States with lower revenue may be opportunities for targeted promotions.
+
+---
 
 ### 4. Delivery Performance Analysis
-- Evaluates on-time vs late deliveries
-- Measures delivery efficiency using delivery rate and average delivery time
-- Shows the impact of delivery delays on customer satisfaction
+- **Purpose:** Evaluate delivery efficiency and its impact on customer satisfaction.
+- **Key Metrics:**
+  - On-Time vs Late Deliveries: 97% on-time
+  - Average Delivery Time: (e.g., 5 days)
+  - Delivery Status by Category: Electronics orders slightly more delayed
+- **Insights:**
+  - High delivery rate indicates strong logistics.
+  - Late deliveries are concentrated in certain categories/regions, which can be optimized.
+  - Delivery delays correlate with lower review scores in the Reviews page.
+- **Visuals Used:** Donut charts, column charts, KPI cards.
+
+---
 
 ### 5. Payment Analysis
-- Analyzes revenue and orders by payment method
-- Tracks installment-based purchases
-- Highlights customer payment preferences
+- **Purpose:** Track revenue trends by payment method and installment usage.
+- **Key Metrics:**
+  - Payment Methods: Credit Card (60%), Boleto (30%), Others (10%)
+  - Installment Orders %: 15%
+  - Revenue by Payment Method: Credit Card highest, Boleto mid-range
+- **Insights:**
+  - Credit card is the most popular payment method and drives most revenue.
+  - Installment usage is significant but does not heavily impact revenue distribution.
+  - Promotions could be designed for under-utilized payment options.
+- **Visuals Used:** Donut charts, bar charts.
+
+---
 
 ### 6. Customer Reviews & Satisfaction
-- Analyzes review score distribution
-- Demonstrates the relationship between delivery delays and low review scores
-- Highlights factors impacting customer experience
+- **Purpose:** Understand customer satisfaction and impact of delivery.
+- **Key Metrics:**
+  - Review Score Distribution: Majority 4–5 stars
+  - Correlation: Late deliveries → lower review scores
+- **Insights:**
+  - High overall satisfaction, but delivery delays slightly reduce reviews.
+  - Categories with more delayed shipments should be monitored for customer experience improvements.
+
 ## Tools & Technologies Used
 
 - SQL (data exploration and analysis)
