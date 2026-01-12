@@ -23,7 +23,7 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
 - Payment Method Distribution
 - Installment Orders %
 - Average Customer Review Score
-- 
+  
 - <img width="1258" height="804" alt="Excecutive_Overview" src="https://github.com/user-attachments/assets/b652be63-bb58-4d41-8050-5cb00cffaeb0" />
   <img width="1198" height="796" alt="Sales_Products" src="https://github.com/user-attachments/assets/3cb81b07-22fc-408f-8eb5-e5346fde2baf" />
   <img width="1444" height="809" alt="Customer_Geography" src="https://github.com/user-attachments/assets/f159d6fd-d330-4866-92bf-794d7805f21e" />
