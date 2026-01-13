@@ -1,4 +1,4 @@
-# Ecommerce Analytics Project
+# E-Commerce-Sales-Customer-Delivery-Analytics
 
 An end-to-end ecommerce analytics project focused on understanding sales performance, customer behavior, delivery efficiency, payment methods, and customer satisfaction using SQL and Power BI.
 
