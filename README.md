@@ -37,7 +37,7 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
 ### 1. Executive Overview
 - **Purpose:** Provides a high-level snapshot of business performance.
 - **Key Metrics:**
-  - Total Revenue: 2,000,000+ (example)
+  - Total Revenue: 2,000,000+ 
   - Total Orders: 120,000
   - Average Order Value (AOV): 159.33
   - Total Customers: 99,000
