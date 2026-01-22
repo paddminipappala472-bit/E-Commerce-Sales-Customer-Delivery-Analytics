@@ -1,6 +1,7 @@
 # E-Commerce-Sales-Customer-Delivery-Analytics
 
 An end-to-end ecommerce analytics project focused on understanding sales performance, customer behavior, delivery efficiency, payment methods, and customer satisfaction using SQL and Power BI.
+🔗 View Dashboard & Analysis (PPT)
 ## https://app.presentations.ai/view/p8PVCYyPzC
 ## https://www.pi.inc/docs/404738925108069?share_token=DNNFEIMAF5TAQ
 ## Business Objectives
